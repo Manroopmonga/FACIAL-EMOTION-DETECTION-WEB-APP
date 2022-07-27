@@ -1,0 +1,30 @@
+.image{
+    /* margin:auto; */
+    margin-top:26px;
+ /* margin-left: 233px; */
+    /* background-color:rgb(238, 225, 227); */
+    height: 300px;
+    width: 500px;
+}
+.image2{
+    margin-left: 420px;
+}
+
+.data{
+    /* position:relative; */
+    margin-top:26px;
+    text-align:center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 42px;
+}
+
+.caps{ text-transform: uppercase;}
+
+.title1{
+    margin:auto;
+    text-align:center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+}

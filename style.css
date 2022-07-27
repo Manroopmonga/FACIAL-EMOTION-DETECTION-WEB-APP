@@ -1,0 +1,36 @@
+.form{
+    margin:auto;
+    background-color:rgb(238, 225, 227);
+    height: 430px;
+    width: 800px;
+}
+.title{
+    margin:auto;
+    text-align:center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: larger;
+}
+.form2{
+    padding-left: 105px;
+    padding-top: 60px;
+
+    margin-top: 65px;
+    margin-left: 200px;
+    background-color: rgb(138, 90, 97);
+    height: 178px;
+    width: 389px
+}
+.form3{
+       /* padding-left: 105px; */
+    /* padding-top: 37px; */
+    /* margin-top: -90px; */
+    margin-left: 200px;
+    background-color: rgb(148, 120, 124);
+    height: 49px;
+    width: 389px; 
+}
+.choose{
+    text-align: center;
+    font-size: 32px
+}
